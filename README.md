@@ -15,3 +15,16 @@ Apenas mais um apaixonado por Hacking 🎩
 
 #### 💠[🎩 Hydra Ofensiva 🎩](https://chat.whatsapp.com/F8eIP4mnavP3K8shnFR9aP) Entre para nossa comunidade no app verdinho.
 
+
+
+
+### 👿 Scriptzinho pequeno para estar logando em contas discord por meio do token 👿
+
+
+> O token do Discord é uma forma de autenticação e autorização para acessar a API do Discord em nome de um usuário, porém é uma forma de identificação de sessão, pois permite que um usuário seja autenticado e mantenha sua sessão ativa enquanto interage com o Discord.
+
+> Lembrando que obter o token de acesso de outra pessoa sem permissão pode ser considerado uma violação de privacidade, roubo de identidade ou acesso não autorizado a um sistema de computador, dependendo das leis locais e das circunstâncias específicas.
+
+
+
+
